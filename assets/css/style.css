@@ -1,0 +1,8 @@
+body{
+    background-image: url("http://static.pokemonpets.com/images/monsters-images-300-300/725-Litten.png");
+}
+#animal-form{
+    color: green;
+    font-size:30px;
+    float: right;
+}
